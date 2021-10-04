@@ -1,0 +1,33 @@
+D:\Web\Learn-CS\X_Media_WinForm\Game_Caro\Game_Caro\bin\Debug\Game_Caro.exe.config
+D:\Web\Learn-CS\X_Media_WinForm\Game_Caro\Game_Caro\bin\Debug\Game_Caro.exe
+D:\Web\Learn-CS\X_Media_WinForm\Game_Caro\Game_Caro\bin\Debug\Game_Caro.pdb
+D:\Web\Learn-CS\X_Media_WinForm\Game_Caro\Game_Caro\obj\Debug\Game_Caro.csproj.AssemblyReference.cache
+D:\Web\Learn-CS\X_Media_WinForm\Game_Caro\Game_Caro\obj\Debug\Game_Caro.Properties.Resources.resources
+D:\Web\Learn-CS\X_Media_WinForm\Game_Caro\Game_Caro\obj\Debug\Game_Caro.csproj.GenerateResource.cache
+D:\Web\Learn-CS\X_Media_WinForm\Game_Caro\Game_Caro\obj\Debug\Game_Caro.csproj.CoreCompileInputs.cache
+D:\Web\Learn-CS\X_Media_WinForm\Game_Caro\Game_Caro\obj\Debug\Game_Caro.exe
+D:\Web\Learn-CS\X_Media_WinForm\Game_Caro\Game_Caro\obj\Debug\Game_Caro.pdb
+D:\Web\Learn-CS\X_Media_WinForm\Game_Caro\Game_Caro\obj\Debug\Game_Caro.playchess.resources
+D:\Web\Learn-CS\X_Media_WinForm\Game_Caro\Game_Caro\obj\Debug\Game_Caro.SetChessBoard.resources
+D:\Web\Learn-CS\X_Media_WinForm\Game_Caro - Copy\Game_Caro\bin\Debug\Game_Caro.exe.config
+D:\Web\Learn-CS\X_Media_WinForm\Game_Caro - Copy\Game_Caro\bin\Debug\Game_Caro.exe
+D:\Web\Learn-CS\X_Media_WinForm\Game_Caro - Copy\Game_Caro\bin\Debug\Game_Caro.pdb
+D:\Web\Learn-CS\X_Media_WinForm\Game_Caro - Copy\Game_Caro\obj\Debug\Game_Caro.csproj.AssemblyReference.cache
+D:\Web\Learn-CS\X_Media_WinForm\Game_Caro - Copy\Game_Caro\obj\Debug\Game_Caro.playchess.resources
+D:\Web\Learn-CS\X_Media_WinForm\Game_Caro - Copy\Game_Caro\obj\Debug\Game_Caro.Properties.Resources.resources
+D:\Web\Learn-CS\X_Media_WinForm\Game_Caro - Copy\Game_Caro\obj\Debug\Game_Caro.SetChessBoard.resources
+D:\Web\Learn-CS\X_Media_WinForm\Game_Caro - Copy\Game_Caro\obj\Debug\Game_Caro.csproj.GenerateResource.cache
+D:\Web\Learn-CS\X_Media_WinForm\Game_Caro - Copy\Game_Caro\obj\Debug\Game_Caro.csproj.CoreCompileInputs.cache
+D:\Web\Learn-CS\X_Media_WinForm\Game_Caro - Copy\Game_Caro\obj\Debug\Game_Caro.exe
+D:\Web\Learn-CS\X_Media_WinForm\Game_Caro - Copy\Game_Caro\obj\Debug\Game_Caro.pdb
+D:\Web\Learn-CS\X_Media_WinForm\XMedia-Game-caro\Game_Caro\bin\Debug\Game_Caro.exe.config
+D:\Web\Learn-CS\X_Media_WinForm\XMedia-Game-caro\Game_Caro\bin\Debug\Game_Caro.exe
+D:\Web\Learn-CS\X_Media_WinForm\XMedia-Game-caro\Game_Caro\bin\Debug\Game_Caro.pdb
+D:\Web\Learn-CS\X_Media_WinForm\XMedia-Game-caro\Game_Caro\obj\Debug\Game_Caro.csproj.AssemblyReference.cache
+D:\Web\Learn-CS\X_Media_WinForm\XMedia-Game-caro\Game_Caro\obj\Debug\Game_Caro.playchess.resources
+D:\Web\Learn-CS\X_Media_WinForm\XMedia-Game-caro\Game_Caro\obj\Debug\Game_Caro.Properties.Resources.resources
+D:\Web\Learn-CS\X_Media_WinForm\XMedia-Game-caro\Game_Caro\obj\Debug\Game_Caro.SetChessBoard.resources
+D:\Web\Learn-CS\X_Media_WinForm\XMedia-Game-caro\Game_Caro\obj\Debug\Game_Caro.csproj.GenerateResource.cache
+D:\Web\Learn-CS\X_Media_WinForm\XMedia-Game-caro\Game_Caro\obj\Debug\Game_Caro.csproj.CoreCompileInputs.cache
+D:\Web\Learn-CS\X_Media_WinForm\XMedia-Game-caro\Game_Caro\obj\Debug\Game_Caro.exe
+D:\Web\Learn-CS\X_Media_WinForm\XMedia-Game-caro\Game_Caro\obj\Debug\Game_Caro.pdb
